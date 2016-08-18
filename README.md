@@ -1,3 +1,2 @@
 # DownloadingImages
-Coding project from Udemy.com: "The Complete Android Developer Course".
-Grab an image from wikimedia
+Coding project from Udemy.com: "The Complete Android Developer Course".<br />Grab an image from wikimedia
